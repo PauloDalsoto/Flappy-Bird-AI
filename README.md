@@ -1,5 +1,5 @@
 # Flappy Bird IA 🕹️🤖
-
+<img src="/imgs/gif.gif">
 Bem-vindo ao emocionante mundo da inteligência artificial! Este repositório traz uma empolgante implementação do jogo Flappy Bird, com uma inteligência artificial (IA) treinada para jogá-lo. Se você está embarcando no seu primeiro contato com IA, como eu, este projeto é uma excelente maneira de começar a explorar esse campo fascinante! Fui inspirado pelos canais Universo Programado (https://www.youtube.com/@UniversoProgramado) e Hashtag Programação (https://www.youtube.com/@HashtagProgramacao) a mergulhar nessa aventura tecnológica. Vamos lá! 🚀
 
 ## Funcionalidades Principais 🎮
